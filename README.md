@@ -1,5 +1,9 @@
 Tema: Editor de fórmulas matemáticas
 ======
+**Direccion gist: prueba de la librería**
+
+gist.github.com/3831478
+
 **Investigar sobre el tipo de contenido asignado.**
 
 Los editores de fórmulas matemáticas son herramientas creadas para traducir el lenguaje matemático (fórmulas, resultados) a expresiones digitales que se puedan manipular más fácilmente. Las más comunes están en línea; los que usan WYSIWYG (permite escribir un documento viendo directamente el resultado final) dan la opción de barras de herramientas para un manejo más sencillo, si no se usarían un lenguaje de interpretación que requiere de cierto nivel de conocimiento por parte del usuario.
